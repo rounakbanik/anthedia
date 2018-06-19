@@ -30,6 +30,7 @@ body {
 	margin-left: 15px !important;
 	margin-right: 15px !important;
 	margin-bottom: 10px !important;
+	border-bottom: 2px solid #FEE140;
 }
 
 .normal-links:hover {
