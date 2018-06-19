@@ -1,0 +1,67 @@
+/* Mobile Only Styles */
+@media only screen and (max-device-width: 480px) {
+
+}
+
+/* General Styles */
+body {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 400;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+}
+
+.navbar-inverse {
+	border-radius: 0px;
+	background-color: #FEE140;
+	margin: 0px;
+	color: #444;
+	padding: 10px;
+	font-size: 110%;
+	border: 0px;
+}
+
+.normal-links {
+	color: #444 !important;
+	padding-bottom: 3px !important;
+	padding-right: 1px !important;
+	padding-left: 1px !important;
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+	margin-bottom: 10px !important;
+}
+
+.normal-links:hover {
+	color: #000 !important;
+	padding-bottom: 3px !important;
+	padding-right: 1px !important;
+	padding-left: 1px !important;
+	border-bottom: 2px solid #000	;
+	cursor: pointer;
+}
+
+
+
+.navbar-right li a {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.navbar-right {
+	padding-right: 20px;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-nav {
+	margin-top: 10px;
+}
