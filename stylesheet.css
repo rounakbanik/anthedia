@@ -6,8 +6,8 @@
 	}
 
 	.navbar-inverse .navbar-toggle {
-    	background-color: #FEE140;
-    	border-color: #FEE140;
+    	background-color: #FEE140 transparent;
+    	border-color: #FEE140 transparent;
 	}
 
 	.navbar-inverse .navbar-toggle .icon-bar {
@@ -16,6 +16,10 @@
 
 	.normal-links:hover {
 		border-bottom: 0px !important;
+	}
+
+	.main-info .snap {
+		display: inline !important;
 	}
 
 }
@@ -105,4 +109,9 @@ body {
 
 .main-info .logo {
 	height: 150px;
+}
+
+.main-info .snap {
+	display: none;
+	height: 90px;
 }
