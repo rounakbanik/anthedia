@@ -179,3 +179,29 @@ iframe {
 	color: black;
 	border: 0px;
 }
+
+/* Footer */
+footer {
+	background: url(images/background.png) no-repeat center center fixed;
+	background-size: cover;
+	padding: 30px;
+	font-size: 110%;
+}
+
+/* Navigation Bar Responsive Styles */
+
+body {
+    padding-top: 100px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    transition: top 0.2s ease-in-out;
+    width: 100%;
+    z-index: 3;
+}
+
+.nav-up {
+    top: -120px;
+}
