@@ -96,14 +96,9 @@ body {
 	margin-top: 10px;
 }
 
-.navbar-br {
-	height: 80px;
-	width: 320px;
-	background: url(images/logo2.png) no-repeat center center;
-	background-size: contain;
-	margin: 0px;
-	padding: 0px;
-	display: inherit;
+.navbar-left li a {
+	font-weight: 500;
+	font-size: 150%;
 }
 
 /* Jumbotron */
