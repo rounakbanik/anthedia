@@ -190,9 +190,14 @@ iframe {
 footer {
 	background: url(images/background.png) no-repeat center center fixed;
 	background-size: cover;
-	padding: 30px;
+	padding: 20px;
 	font-size: 110%;
 }
+
+footer .col-md-9 {
+	padding-left: 50px;
+}
+
 
 /* Navigation Bar Responsive Styles */
 
