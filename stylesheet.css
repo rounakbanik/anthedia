@@ -18,6 +18,11 @@
 		border-bottom: 0px !important;
 	}
 
+	.main-frame {
+
+		height: 100% !important;
+	}
+
 	.main-info .snap {
 		display: inline !important;
 	}
@@ -161,4 +166,16 @@ iframe {
 /* Careers */
 .careers {
 	height: 100vh;
+}
+
+.job {
+	margin: 15px;
+}
+
+.apply {
+	background: url(images/background.png) no-repeat center center fixed;
+	background-size: cover;
+	padding: 10px;
+	color: black;
+	border: 0px;
 }
