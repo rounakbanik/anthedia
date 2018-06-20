@@ -51,6 +51,7 @@ body {
 	border: 0px;
 }
 
+
 .normal-links {
 	color: #000 !important;
 	padding-bottom: 3px !important;
@@ -93,6 +94,16 @@ body {
 
 .navbar-nav {
 	margin-top: 10px;
+}
+
+.navbar-br {
+	height: 80px;
+	width: 320px;
+	background: url(images/logo2.png) no-repeat center center;
+	background-size: contain;
+	margin: 0px;
+	padding: 0px;
+	display: inherit;
 }
 
 /* Jumbotron */
