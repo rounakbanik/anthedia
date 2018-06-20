@@ -115,3 +115,11 @@ body {
 	display: none;
 	height: 90px;
 }
+
+.about {
+	padding: 30px;
+}
+
+.about p {
+	text-align: left;
+}
