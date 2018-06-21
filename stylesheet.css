@@ -105,7 +105,7 @@ body {
 .main-frame {
   
 	background-color: #fff;
-	height: 90vh;
+	min-height: 90vh;
 }
 
 .main-info h1 {
@@ -139,7 +139,7 @@ body {
 /* Content */
 
 .content {
-	height: 100vh;
+	min-height: 100vh;
 	background: url(images/background.png) no-repeat center center fixed;
 	background-size: cover;
 }
@@ -164,14 +164,14 @@ body {
 }
 
 iframe {
-	height: 65vh;
+	min-height: 65vh;
 	width: 75%;
 }
 
 
 /* Careers */
 .careers {
-	height: 100vh;
+	min-height: 100vh;
 }
 
 .job {
