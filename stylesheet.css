@@ -188,10 +188,11 @@ iframe {
 
 /* Footer */
 footer {
-	background: url(images/background.png) no-repeat center center fixed;
-	background-size: cover;
+	background: black;
+	/*background-size: cover;*/
 	padding: 20px;
 	font-size: 110%;
+	color: white;
 }
 
 footer .col-md-9 {
